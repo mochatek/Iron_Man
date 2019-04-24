@@ -6,7 +6,7 @@
 - Press **D** to move right and **S** to move left.
 - Aliens and Energies will be generated randomly in the space.
 - Score will reduce by 3 on touching the Alien :alien:.
-- Score will increase by 6 on taking Energies :boom:
+- Score will increase by 6 on taking the :boom: Energies.
 - Ironman Speed will increase by 2 on every 100th score.
 - Game ends when score reaches 0.
 
