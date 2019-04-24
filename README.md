@@ -1,12 +1,12 @@
 # Iron Man
 
-- This is a small game built using VB6.
+- This is a small game :video_game: built using VB6.
 - Click the **IRONMAN** to start the game.
 - The game is a side-scroller where the player controls the ironman.
 - Press **D** to move right and **S** to move left.
 - Aliens and Energies will be generated randomly in the space.
-- Score will reduce by 3 on touching the **Aliens**.
-- Score will increase by 6 on taking **Energies**.
+- Score will reduce by 3 on touching the Alien :alien:.
+- Score will increase by 6 on taking Energies :boom:
 - Ironman Speed will increase by 2 on every 100th score.
 - Game ends when score reaches 0.
 
