@@ -14,9 +14,9 @@
 ---
 
 ### Screenshots :
-![screenshot 1](https://github.com/mochatek/Angry_Bird/blob/master/Screenshot1.PNG)
+![screenshot 1](https://github.com/mochatek/Iron_Man/blob/master/Screenshot1.PNG)
 
-![screenshot 1](https://github.com/mochatek/Angry_Bird/blob/master/Screenshot2.PNG)
+![screenshot 1](https://github.com/mochatek/Iron_Man/blob/master/Screenshot2.PNG)
 
 **More projects available at :** [https://github.com/mochatek](https://github.com/mochatek)
 
